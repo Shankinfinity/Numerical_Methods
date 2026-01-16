@@ -58,12 +58,3 @@ The focus is on:
 - Signal processing and Fourier series  
 - Error analysis and convergence
 
----
-
-## 📊 Example Output
-
-Plots and numerical results are included to compare:
-- Analytical vs Numerical solutions  
-- Error behavior  
-- Stability of methods  
-
